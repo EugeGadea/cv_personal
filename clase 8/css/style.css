@@ -1,0 +1,29 @@
+.foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    display: block;
+    margin: auto;   
+    
+}
+
+h1 {
+    font-family: 'Calibri';
+    color: black;
+    text-align: center;
+    background-color: tan;
+}
+
+.subtitulo {
+    font-family: 'Helvetica';
+    color: black;
+    text-align: center;
+    background-color: tan;
+}
+
+footer {
+    font-family: 'Calibri';
+    color: black;
+    text-align: center;
+    background-color: tan;
+}
