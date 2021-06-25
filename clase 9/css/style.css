@@ -1,0 +1,111 @@
+body {
+    font-family: 'Roboto';
+}
+
+.header {
+    background: black;
+    height: 20px;
+    color: white;
+}
+
+.opciones{
+
+    background: #F0A83E; 
+    padding-top: 30px; 
+    padding-bottom: 30px;
+    padding-bottom: 40px; 
+    padding-left: 30px;
+    color: white;
+}
+
+.huella {
+   display: flex;
+   justify-content: center;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.comederos {
+    text-align: center;
+}
+
+.productos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacto {
+    display: flex;
+    justify-content: center;
+}
+
+.contacto .contactanos {
+    color: #3C2313;
+    text-align: center;
+}
+
+.contacto .datos {
+    background-color: #3C2313;
+    width: 340px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.botones {  
+    display: flex;
+    justify-content: center;
+}
+
+.botones .Resetear {
+    background-color: #8A8787;
+    width: 110px;
+    height: 34px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.botones .Enviar {
+    background-color: #F0A83E;
+    width: 110px;
+    height: 34px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.suscribite {
+    background-color: #F0A83E;
+    color: white;
+    width: 100%;
+    height: 70px;
+}
+.suscribite .botonsus {
+    background-color: #3C2313;
+    width: 110px;
+    height: 34px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.suscribite .correo {
+    background-color: white;
+    width: 271px;
+    height: 40px;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.provincia {
+    background-color: #3C2313; 
+    position: absolute;
+    width: 100%;
+    height: cover;
+    color: white;
+}
